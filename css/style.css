@@ -76,4 +76,37 @@ body{
     border-radius: 10px;
 
 }
-
+/* **********Feature Section**********/
+#row3{
+    height:360px;
+    background-color: white;
+}
+.service_section{}
+.service_section h2{
+    text-align:center ;
+    text-transform: uppercase;
+    padding-top:30px;
+    padding-bottom: 30px;
+}
+.service_container{
+    width:90%;
+    display:flex;
+    justify-content: space-between;
+    align-items: center;
+    margin:0 auto;
+}
+.service_item{
+    text-align: center;
+}
+.service_item h3{
+    padding-top:20px;
+}
+.service_item i{
+    height: 80px;
+    width:80px;
+    background-color: skyblue;
+    border-radius: 50%;
+    line-height:80px;
+font-size:40px;
+}
+.service_item p{}
